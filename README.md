@@ -2,4 +2,4 @@
 
 Solving the [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems).
 
-Solved: 7/99
+Solved: 8/99
