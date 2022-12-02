@@ -1,4 +1,7 @@
-data Encoded a = Multiple Int a | Single a deriving Show
+data Encoded a
+  = Multiple Int a
+  | Single a
+  deriving (Show)
 
 decodeModified :: [Encoded a] -> [a]
 decodeModified [] = []
